@@ -10,6 +10,10 @@ Welcome to Melomanian's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   melomanian
+   powers
+   otherside
+
 
 
 Indices and tables
