@@ -142,6 +142,11 @@ MALL
 
 This disc turns you into an enderman-like creature.
 
+.. image:: ../../../img/art/Mall.png
+  :width: 400
+  :alt: Mall.png
+  :align: center
+
 .. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
 .. list-table:: **MALL pros and cons**
    :name: mall-powers
