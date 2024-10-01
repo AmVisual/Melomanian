@@ -160,7 +160,7 @@ This disc turns you into an enderman-like creature.
    * - **Teleportation** - you're able to teleport. There are two types of teleportation: a) instant, which you can activate by pressing **[secondary key]** button, allows you to instantly teleport max 32 blocks away in the direction you're looking (horizontally); b) with ender pearl, works the same way as Enderian's pearl, to throw a pearl press a **[secondary key]** button while sneaking. The second type of teleportation is recommended while being underground, however you can also use the first type if you want to get out from the underground back to the surface (using it in the Nether means you teleport above the bedrock ceiling). The power has 6 seconds of cooldown.
      - **Hydrophobia** - water and rain deals you damage. Only water protection enchantment makes you resistant to water.
    * - **Target teleportation** - when you hit the target, there's a 20% chance that it will teleport 10 blocks up from its position
-     - 
+     - **Tall** - you're 3 blocks tall and it's problematic for you to go through holes smaller than 2.5 blocks. *This feature is available on versions 1.21 and later.*
    * - **Teleporting arrows** - you can shoot arrows which when they hit a target they'll teleport it in front of you. These arrows leave a trail of purple particles behind. Only normal arrows can be used as teleporting arrows (spectral arrows will not work). If a teleporting arrow successfully hits the target you can shoot the next one after 20 seconds.
      - 
 
@@ -172,6 +172,11 @@ MELLOHI
 *Author of music: C418*
 
 This disc spoils your mood.
+
+.. image:: ../../../img/art/Mellohi.png
+  :width: 400
+  :alt: Mellohi.png
+  :align: center
 
 .. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
 .. list-table:: **MELLOHI pros and cons**
@@ -201,6 +206,11 @@ STAL
 
 This disc turns you into an astute detective.
 
+.. image:: ../../../img/art/Stal.png
+  :width: 400
+  :alt: Stal.png
+  :align: center
+
 .. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
 .. list-table:: **STAL pros and cons**
    :name: stal-powers
@@ -226,6 +236,11 @@ STRAD
 *Author of music: C418*
 
 This disc unites you with the sea.
+
+.. image:: ../../../img/art/Strad.png
+  :width: 400
+  :alt: Strad.png
+  :align: center
 
 .. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
 .. list-table:: **STRAD pros and cons**
@@ -258,6 +273,11 @@ WARD
 *Author of music: C418*
 
 This disc turns you into a knight from a retro RPG game.
+
+.. image:: ../../../img/art/Ward.png
+  :width: 400
+  :alt: Ward.png
+  :align: center
 
 .. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
 .. list-table:: **WARD pros and cons**
@@ -339,7 +359,7 @@ This disc teleports you to a new dimension: Otherside. It's the origin place of 
 
 .. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
 .. list-table:: **PIGSTEP pros and cons**
-   :name: pigstep-powers
+   :name: otherside-powers
    :widths: 1, 1
    :class: longtable
    :header-rows: 1
