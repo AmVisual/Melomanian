@@ -43,3 +43,7 @@ If you'll be lucky enough and find one of worship places, you'll be able to open
   :align: center
 
 **Important! As Melomanian you can't walk through the portal when you have any disc playing in your walkman and when a bar with an hourglass is active.**
+
+*Thanks to WafflesAreBetter for great tutorials on how to create custom dimensions. They taught me a lot about how the custom world generation in Minecraft works.*
+
+*Link to WafflesAreBetter's YouTube channel:* `https://www.youtube.com/c/WafflesAreBetter <https://www.youtube.com/c/WafflesAreBetter>`_

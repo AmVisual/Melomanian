@@ -358,7 +358,7 @@ OTHERSIDE
 This disc teleports you to a new dimension: Otherside. It's the origin place of all Melomanians.
 
 .. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
-.. list-table:: **PIGSTEP pros and cons**
+.. list-table:: **OTHERSIDE pros and cons**
    :name: otherside-powers
    :widths: 1, 1
    :class: longtable
@@ -407,21 +407,88 @@ CREATOR
 
 *Author of music: Lena Raine*
 
-**Coming soon in version 1.21**
+This disc changes you into an industrial automaton.
+
+.. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
+.. list-table:: **CREATOR pros and cons**
+   :name: creator-powers
+   :widths: 1, 1
+   :class: longtable
+   :header-rows: 1
+   :align: center
+   
+   * - **Pros**
+     - **Cons**
+   * - **Crafter head** - your head becomes a crafter (this means you can't wear a helmet, though). By pressing **[Secondary key]** you can open a 3x3 crafting table.
+     - **Redstone consumption** - you are an automaton and your energy source is redstone. Your hunger bar gets drained quickly and you need to eat redstone (or redstone blocks) to fill it up. When the bar gets empty you can't move. Also you can't eat any food.
+   * - **New recipies** - you have greater knowlegde about crafting. Your recipe book is increased by new items. You can check their recipies in :ref:`Crafting recipcies <creator crafting>` section.
+     - **Slowness** - you are slower than others
+   * - 
+     - **Heavy** - you sink in water
+
+This power is available for versions 1.21 and later.
 
 CREATOR (MUSIC BOX)
 -------------------
 
 *Author of music: Lena Raine*
 
-**Coming soon in version 1.21**
+This disc changes you into a figurine from a music box.
+
+.. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}
+.. list-table:: **CREATOR (MUSIC BOX) pros and cons**
+   :name: creator-music-box-powers
+   :widths: 1, 1
+   :class: longtable
+   :header-rows: 1
+   :align: center
+   
+   * - **Pros**
+     - **Cons**
+   * - **New recipies** - you have greater knowlegde about crafting. Your recipe book is increased by spawn eggs. You can check their recipies in :ref:`Crafting recipcies <creator music box crafting>` section.
+     - **Rotating** - while not moving you are rotating like a figurine from a music box.
+   * - **Small** - your height is one block.
+     - **Weak** - you get twice more damage and can't hurt others.
+   * - **No exhaustion** - you don't get exhausted and don't need to eat.
+     - 
+
+This power is available for versions 1.21 and later.
 
 PRECIPICE
 ---------
 
 *Author of music: Aaron Cherof*
 
-**Coming soon in version 1.21**
+This disc teaches you how to control the wind. You become a monk from an air temple ;)
+
+.. tabularcolumns:: p{0.5\linewidth}p{0.5\linewidth}p{0.5\linewidth}
+.. list-table:: **PRECIPICE pros and cons**
+   :name: precipice-powers
+   :widths: 1, 1, 1
+   :class: longtable
+   :header-rows: 1
+   :align: center
+   
+   * - **Pros**
+     - **Neutral**
+     - **Cons**
+   * - **Wind charge** - by pressing **[Secondary key]** while standing on the ground you can shoot a wind charge.
+     - **Vegetarian** - the monks from air temple are vegetarians. You can't eat meat.
+     - **Weakness** - you have got a permanent weakness effect which means that you deal less melee damage.
+   * - **Air scooter** - by pressing **[Secondary key]** after you jump you can summon an air scooter. You can ride it as long as an indication bar is visible. Also you can dismount the scooter by pressing **[Shift key]**. If you bump into a wall the scooter will disappear.
+     - 
+     - 
+   * - **Tornado** - when you **[Right click]** an entity with a breeze rod in your hand, you can summon a tornado which will launch this entity high in the air. After that the breeze rod disappears from your inventory.
+     - 
+     -
+   * - **Like a feather** - you're as light as a feather. You can jump a bit higher and fall gently. Also you get less fall damage.
+     -
+     -
+   * - **No wind damage** - you don't deal damage from wind charges.
+     -
+     -
+
+This power is available for versions 1.21 and later.
 
 13 
 ---
@@ -470,9 +537,9 @@ This disc covers you in sculk.
      - **Cons**
    * - **Bonus xp** - you get 2x more xp when killing a mob
      - **Darkness** - you have darkness effect, but not for all the time. When the record has a short segment of calm, relaxing music, the effect wears off.
-   * - **Sonic boom** - you can attack mobs and players from distance by releasing sonic boom. The range of sonic boom is 13 blocks and deals 10 points of damage. Because you're smaller than a Warden, sonic boom repulses you backwards, which might be problematic, but also has some advantages (for example you can rocket jump)
+   * - **Sonic boom** - you can attack mobs and players from distance by releasing sonic boom with **[Secondary key]**. The range of sonic boom is 13 blocks and deals 10 points of damage. Because you're smaller than a Warden, sonic boom repulses you backwards, which might be problematic, but also has some advantages (for example you can rocket jump)
      - **Covered in sculk** - you can't wear a helmet, because your head is covered in sculk
-   * - **Sculk spreading** - while holding an echo shard in your main hand you can spread sculk around you
+   * - **Sculk spreading** - while holding an echo shard in your main hand and by pressing **[Secondary key]** you can spread sculk around you
      - 
    * - **No vibrations** - you emit no vibrations, which means sculk sensors and Wardens cannot detect you
      -

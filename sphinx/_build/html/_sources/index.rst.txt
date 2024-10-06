@@ -13,6 +13,8 @@ Welcome to Melomanian's documentation!
    melomanian
    powers
    otherside
+   crafting
+   credits
 
 
 
