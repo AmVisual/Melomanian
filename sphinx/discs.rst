@@ -8,7 +8,7 @@ CAT
 
 This disc gives you powers of a cat (quite similar to Feline's powers).
 
-.. image:: ../../../img/art/Cat.png
+.. image:: ../img/art/Cat.png
   :width: 400
   :alt: Cat.png
   :align: center
@@ -43,7 +43,7 @@ BLOCKS
 
 This disc turns you into a stone golem.
 
-.. image:: ../../../img/art/Blocks.png
+.. image:: ../img/art/Blocks.png
   :width: 400
   :alt: Blocks.png
   :align: center
@@ -78,7 +78,7 @@ CHIRP
 
 This disc gives you wings. Basically, you are like an Elytrian.
 
-.. image:: ../../../img/art/Chirp.png
+.. image:: ../img/art/Chirp.png
   :width: 400
   :alt: Chirp.png
   :align: center
@@ -109,7 +109,7 @@ FAR
 
 This disc makes you as fast as lightning.
 
-.. image:: ../../../img/art/Far.png
+.. image:: ../img/art/Far.png
   :width: 400
   :alt: Far.png
   :align: center
@@ -142,7 +142,7 @@ MALL
 
 This disc turns you into an enderman-like creature.
 
-.. image:: ../../../img/art/Mall.png
+.. image:: ../img/art/Mall.png
   :width: 400
   :alt: Mall.png
   :align: center
@@ -173,7 +173,7 @@ MELLOHI
 
 This disc spoils your mood.
 
-.. image:: ../../../img/art/Mellohi.png
+.. image:: ../img/art/Mellohi.png
   :width: 400
   :alt: Mellohi.png
   :align: center
@@ -206,7 +206,7 @@ STAL
 
 This disc turns you into an astute detective.
 
-.. image:: ../../../img/art/Stal.png
+.. image:: ../img/art/Stal.png
   :width: 400
   :alt: Stal.png
   :align: center
@@ -237,7 +237,7 @@ STRAD
 
 This disc unites you with the sea.
 
-.. image:: ../../../img/art/Strad.png
+.. image:: ../img/art/Strad.png
   :width: 400
   :alt: Strad.png
   :align: center
@@ -274,7 +274,7 @@ WARD
 
 This disc turns you into a knight from a retro RPG game.
 
-.. image:: ../../../img/art/Ward.png
+.. image:: ../img/art/Ward.png
   :width: 400
   :alt: Ward.png
   :align: center

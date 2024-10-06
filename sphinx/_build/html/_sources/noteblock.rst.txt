@@ -25,7 +25,7 @@ The default sound of a note block is a harp. However, you can set other instrume
 #. **snare**, 
 #. **xylophone**.
 
-.. image:: ../../../img/screenshots/magical_music_control_panel.png
+.. image:: ../img/screenshots/magical_music_control_panel.png
   :width: 800
   :alt: magical_music_control_panel.png
   :align: center
